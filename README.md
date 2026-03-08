@@ -1,3 +1,4 @@
+````
 Sistem Manajemen Pencatatan Dana Desa Peturunan
 
 Sistem Manajemen Pencatatan Dana Desa Peturunan merupakan aplikasi berbasis web menggunakan PHP dan MySQL yang digunakan untuk membantu pengelolaan keuangan dana desa secara terstruktur dan transparan.
@@ -298,5 +299,5 @@ Tabel Pengeluaran
 | penanggung_jawab | VARCHAR   | Nama penanggung jawab              |
 | jumlah           | INT       | Jumlah dana yang dikeluarkan       |
 +------------------+-----------+------------------------------------+
-
+````
 
